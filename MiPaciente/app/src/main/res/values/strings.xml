@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiPaciente</string>
+    <string name="app_title">Mi Pariente </string>
+    <string name="button_search">Buscar </string>
+    <string name="todo">TODO</string>
+    <string name="pacient_name">Nombre completo</string>
+
+</resources>

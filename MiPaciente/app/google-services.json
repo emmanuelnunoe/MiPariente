@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319372287114",
+    "firebase_url": "https://mipariente-cd68c.firebaseio.com",
+    "project_id": "mipariente-cd68c",
+    "storage_bucket": "mipariente-cd68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319372287114:android:c8254d8fb10f45ed892173",
+        "android_client_info": {
+          "package_name": "com.example.mipaciente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319372287114-mn5mbt8l9kuvaak3og1o8pn90fe4jkak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mipaciente",
+            "certificate_hash": "9306619117baa25d5e7f0b0731be484137cd63ab"
+          }
+        },
+        {
+          "client_id": "319372287114-jiskd4dnk4g1sc4pmp6hdfna8nvaqf7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbYJHW1_pBs_G9XAs-CjO_9xGe-2GbZY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319372287114-jiskd4dnk4g1sc4pmp6hdfna8nvaqf7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
